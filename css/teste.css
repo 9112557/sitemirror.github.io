@@ -1,0 +1,27 @@
+body{
+	background-color: black;
+	color:red;
+	line-height: 3px; /* tamanho da altura de cada linha */
+    letter-spacing: 3px; /* tamanho do espaço entre cada letra */
+	word-spacing: 5px; /* tamanho do espaço entre cada palavra */
+	text-indent: 30px; /* tamanho da margem da primeira linha do texto */
+	width: 940px;
+}
+h1{
+color:red;
+background-color: black;
+text-align: center;	
+}
+h2{
+color:red;	
+text-align:center;
+}
+#brasil teste{
+color:green;
+text-align:right;	
+}
+#logo{
+position: absolute;
+top: 20px;
+left: 400px;
+}
